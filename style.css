@@ -1,0 +1,25 @@
+body {
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+.field {
+    margin-bottom: 20px;
+}
+
+.fieldset {
+    border: none;
+}
+
+.btn {
+    width: 80px;
+    height: 30px;
+    border-radius: 5px;
+}
+
+.btn_primary {
+    background: rgb(192, 218, 142);
+}
+
+.btn_secondary {
+    background: rgb(169, 171, 166);
+}
